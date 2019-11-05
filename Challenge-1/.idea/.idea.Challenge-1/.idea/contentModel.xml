@@ -11,6 +11,7 @@
             <e p="FollowPlayerX.cs" t="Include" />
             <e p="PlayerControllerX.cs" t="Include" />
             <e p="Proppelor.cs" t="Include" />
+            <e p="Wall.cs" t="Include" />
           </e>
         </e>
         <e p="Course Library" t="Include">
